@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Twitter-sidebar/static/css/main.22574fc4.css",
+    "main.js": "/Twitter-sidebar/static/js/main.85c76199.js",
+    "index.html": "/Twitter-sidebar/index.html",
+    "main.22574fc4.css.map": "/Twitter-sidebar/static/css/main.22574fc4.css.map",
+    "main.85c76199.js.map": "/Twitter-sidebar/static/js/main.85c76199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22574fc4.css",
+    "static/js/main.85c76199.js"
+  ]
+}
